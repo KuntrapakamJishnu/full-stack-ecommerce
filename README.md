@@ -63,7 +63,7 @@
 <h3>1. Clone the Repository</h3>
 <pre>
 <code>
-git clone (https://github.com/KuntrapakamJishnu/full-stack-ecommerce.git)
+git clone https://github.com/KuntrapakamJishnu/full-stack-ecommerce.git
 cd full-stack-ecomerce
 </code>
 </pre>
